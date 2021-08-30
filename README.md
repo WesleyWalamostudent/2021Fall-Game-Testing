@@ -1,2 +1,66 @@
 # 2021Fall-Game-Testing
-Hello I am Wesley nice to meet you.
+# GAME 2338 - Game Testing
+
+## Agenda
+
+- Week 1
+  - Introduction
+  - [Grading Rubric](https://cmacdougald.github.io/handouts/grading_rubric.html)
+  - [Game Testing History](slides/game_testing_history.html)
+  - GitHub
+  - Course How To
+- Week 2
+  - [Quality](slides/quality.html)
+  - Lab: [Quality](labs/quality_games.html)
+  - [Semester Project](project/overview.md)
+  - Game Review Assignments
+- Week 3
+  - Software Development Life Cycle
+  - [Version Control](slides/version_control.html)
+- Week 4
+  - [Types of Testing](slides/types_of_testing.html)
+  - Lab: [Types of Testing Scenarios](labs/types_of_testing_scenarios.html)
+- Week 5
+  - [Review](https://cmacdougald.github.io/slides/test_review.html)
+  - Test
+- Week 6
+  - Test Plan
+  - Lab: [Agile Airplanes](labs/agile_airplanes.html)
+  - Lab: [Easter Eggs](labs/easter_eggs.html)
+  - [Test Cases](slides/test_cases.html)
+- Week 7
+  - Test Environments
+  - [Playtesting](slides/playtesting.html)
+- Week 8
+  - Test Execution
+- Week 9
+  - Box Testing
+- Week 10
+  - [Review](https://cmacdougald.github.io/slides/test_review.html)
+  - Test
+- Week 11
+  - Bug Reports
+- Week 12
+  - [Automation](slides/automation.html)
+  - Selenium
+  - CI/CD
+    - https://www.redhat.com/en/topics/devops/what-is-ci-cd
+    - https://www.mabl.com/blog/what-is-cicd
+- Week 13
+  - [Load, Performance, and Stress Testing](slides/loadperformancestress_testing.html)
+  - System, Integration and Other Testing
+- Week 14
+  - [Smoke, Functional, & Unit Testing](slides/smokefunctionalunit_testing.html)
+- Week 15
+  - [Review](https://cmacdougald.github.io/slides/test_review.html)
+  - Test
+- Week 16
+  - Everything Due
+  - Finals
+ 
+## Assignments
+
+- [Game Review Template](assignments/gamereviewtemplate.md)
+- [Game Critique Template](assignments/gamecritiquetemplate.md)
+- [Play Testing Template](assignments/playtestingtemplate.md)
+- [Web Testing Tools Template](assignments/web_testing_tools.md)
