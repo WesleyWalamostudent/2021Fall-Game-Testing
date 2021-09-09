@@ -1,6 +1,6 @@
 # Quality Lab B Team
 
-During my discussion with my team, we talked about many different quality games but the one that I chose is ghost of tsushima. Made by Sucker Punch ghost of tsushima is a single player action-adventure samurai game with good quality content. When discussing about quality games I said Single player games have the most quality in the industry and ghost of tsushima has that quality. 
+During my discussion with my team, we talked about many different quality games but the one that I chose is ghost of tsushima. Made by Sucker Punch ghost of tsushima is a single player action-adventure samurai game with good quality content.  I picked ghost of tsushima becuse Single player games have the most quality in the industry and ghost of tsushima has that quality. 
 
   The game uses the Playstaion4’s hardware to its peak with good visuals, and controls. The game is briming with details and visuals making the player believe that they are in tsushima 1274. Since this is a samurai game the controls are very intuitive with each action hitting right and smooth movement. The game quality shows with theses good features that the development team put. 
 
