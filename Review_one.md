@@ -16,11 +16,11 @@
 
 ## Summary
 
-God of War 2018 is an action adventure RPG developed by Santa Monica Studio and is an amazing game about Kratos and his son Atreus that embark on a journey through norse mythology to reach the highest mountain peak.
- I don't want to spoil anything but just know that the story is an epic and emotional tail about Kratos and Atreus learning about family and the responsibility of godhood.
- In God of War the player will be in control of Kratos exploring diffrent realms to advance the story all the while Atreus follows you.
- There are 5 realms to explore in the game Midgard, Alfheim, Helheim, Niflheim, and Muspelheim each having you do quests for the narrative or side objectives for gear.
- I found the campaign to be enjoyable and did not get frustrated at any point with the game's story.
+God of War 2018 is an action adventure RPG developed by Santa Monica Studio and is an amazing game about Kratos and his son Atreus that embark on a journey through norse mythology to reach the highest mountain peak. I don't want to spoil anything but just know that the story is an epic and emotional tail about family and the responsibility of godhood. In God of War the player will be in control of Kratos exploring diffrent realms to advance the story all the while Atreus follows you. There are 5 realms to explore in the game Midgard, Alfheim, Helheim, Niflheim, and Muspelheim each having you do quests for the narrative or side objectives for gear. I found the campaign to be enjoyable and did not get frustrated at any point with the game's story.
+ 
+During my playthrough I found that exploration comes in the form of boat rides, climbing, items, or puzzles solving to advance in the story. 
+One of the ways players will be traversing in the game is canoeing. The player will be using the canoe to traverse diffrent parts of Midgard, the main hub area of the game.
+The game has big scope and players will need to clime in order to reach higher places. Climbing is a great way to get to areas that I could not get to and is a nice change of pace. Puzzles come in the form of using the game's weapon the Leviathan axe. 
  
 
 ## Final Thoughts
