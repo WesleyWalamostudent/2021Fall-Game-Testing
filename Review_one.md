@@ -20,7 +20,9 @@ God of War 2018 is an action adventure RPG developed by Santa Monica Studio and 
  
 During my playthrough I found that exploration comes in the form of boat rides, climbing, items, or puzzles solving to advance in the story. 
 One of the ways players will be traversing in the game is canoeing. The player will be using the canoe to traverse diffrent parts of Midgard, the main hub area of the game.
-The game has big scope and players will need to clime in order to reach higher places. Climbing is a great way to get to areas that I could not get to and is a nice change of pace. Puzzles come in the form of using the game's weapon the Leviathan axe. 
+The game has big scope and players will need to clime in order to reach higher places. Climbing is a great way to get to areas that I could not reach and is a nice change of pace. Puzzles come in the form of using the game's weapon the Leviathan axe. The axe is use to freeze gears from doors closing or destrying the enviorment for sequences to happen. Atreus is another method for puzzles solving and players will be using him to hoist up leges or crawl through small spaces. The boy can also destroy or activate the enviornment for players to move fowared. I loved exploration in this game and using these methos where fun and intuitive.
+
+Gear and combat I found to be the game's main focuse.
  
 
 ## Final Thoughts
