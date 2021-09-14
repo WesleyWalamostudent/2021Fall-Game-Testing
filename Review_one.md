@@ -27,11 +27,7 @@ Gear and combat I found to be the game's main focuse. Throughout the game player
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+God of War overall is an excellent game I love the story it was very enjoyable giving me an epic and emotional tail. Exploration was a great factor in how I looked at my serounding and traversal. Gear was very well balanced and encourage exploration, I never felt too powerful or too weak with what I obtained during my playthrough. Combat was satisfying giving me diffrent ways of fighting and taking on foes with unique weapons and gear. What I did not like about the game was the menus and map. The menus are too small to read making it hard to understand the tutorial and the map looked like a painting with no clear direction. I also did not like many of the puzzels that were given because of the simplicity of them, giving me no real challenge to them. Other than that God of War is a game that I enjoyed from beginning to end.  
 
 ## Additional Information
 
