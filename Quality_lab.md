@@ -1,1 +1,0 @@
-# Quality Lab B Team
