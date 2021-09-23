@@ -1,30 +1,29 @@
-# Game Review for (GAME TITLE)
+# Game Review for Hades
 
 ## Details
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+* Hades
+* https://www.supergiantgames.com/games/hades/
+* https://store.steampowered.com/app/1145360/Hades/
+* https://www.playstation.com/en-us/games/hades/
+* https://www.xbox.com/en-US/games/hades
+* https://www.nintendo.com/games/detail/hades-physical-version-switch/
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+# 8/10
 
 ## Summary
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+Hades is a roguelike isometric game developed and published by Supergiant games. It is about Hade’s son Zagreus who wants to escape the underworld to get away from his father. The player will be playing as Zagreus to compel Dugans to escape from Hades. Along the way Zagreus will meet many of the Greek mythos on his journey to aid him. I love the plot of the game and many of the Greek myths that I meet with excellent voice acting. The narrative gets better as you play and never gets old.
+
+Hades is a Duggen crawler with random generated rooms and enemies every time the player dies. During my playthrough I found myself a bit frustrated every time I died but gotten stronger with each death. Throughout the course of the game players will be acquiring newer and stronger weapons that can be upgraded if the played likes the item. I found myself purchasing new weapons that I believe were affective for the dungeons. Hades is also visually impressive with a comic book art style that pops. I like this style and it is very impressive in the game with character designs and environments.
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+Overall, I found Hades to be an excellent experience. I like the visuals with the cool weapons that can be upgraded and each challenge was a test for me. What I did not like was too much visual noise on screen. I found myself getting lost in all the action because of the flashy visual effects. But that did not stop me from having a good time. 
 
 ## Additional Information
 
