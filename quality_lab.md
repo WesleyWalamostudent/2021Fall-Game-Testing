@@ -5,4 +5,4 @@ Me and my team discuss about many diffrent quality games. The one that I picked 
 
 ## Enter the Gungeon
 
-Is another game that my team mate picked because 
+Enter the gungeon is another game that my team mate picked because it meets many of the quality factors. During our discussion we talked about some of the qualtiy it has for it's development. The game has correctness and functions the way it's suppose to on many diffrent systems. The game performse good working as intended to the standards of the unity engine. It's usability is good in case you want to use diffrent types of controlers for the game. The game also gets updated for maintainability that the game needs.  
