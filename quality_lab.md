@@ -5,4 +5,8 @@ Me and my team discuss about many diffrent quality games. The one that I picked 
 
 ## Enter the Gungeon
 
-Enter the gungeon is another game that my team mate picked because it meets many of the quality factors. During our discussion we talked about some of the qualtiy it has for it's development. The game has correctness and functions the way it's suppose to on many diffrent systems. The game performse good working as intended to the standards of the unity engine. It's usability is good in case you want to use diffrent types of controlers for the game. The game also gets updated for maintainability that the game needs.  
+Enter the gungeon is another game that my team mate picked because it meets many of the quality factors. During our discussion we talked about some of the qualtiy it has for it's development. The game has correctness and functions the way it's suppose to on many diffrent systems. The game performse good working as intended to the standards of the unity engine. It's usability is good in case you want to use diffrent types of controlers for the game. The game also gets updated for maintainability that the game needs.
+
+## Valorant
+
+Valorant is another good quality game my team discussed and meets the same quality factors for a game. When discussing about the game and it's quality factors my team found a few things that Valorant has. The game functions very well on PC meeting the correctness of the hardware. Valorant maintainability is good having players use many diffrent control setting. The game's reliability is very good working as intended not having any crashes.   
