@@ -1,16 +1,18 @@
-# Game Review for (GAME TITLE)
+# Super Mario Bros NES
 
 ## Details
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+* Super Mario Bros NES
+* https://www.nintendo.com/nes-classic/
+* https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/
+* https://www.nintendo.com/games/detail/arcade-archives-vs-super-mario-bros-switch/
+* https://gameovervideogames.com/products/nes-super-mario-bros-duck-hunt-2-in-1-smb?variant=34183712906
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+# 10/10
 
 ## Summary
 
