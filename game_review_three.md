@@ -16,17 +16,13 @@
 
 ## Summary
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+Super Mario Bros is an all-time classic made by Nintendo and was revolutionary in the gaming market. Created and developed by Shigeru Miyamoto Super Mario Bros started out as an arcade game then later became a console game for the Nintendo entertainment system (NES). This was immensely popular at the time and what made Mario's career as a video game icon. 
+
+Super Mario Bros is about an Italian Plumer named Mario and he must stop the evil Bowser from keeping princess toadstool. The player controls Mario and must go through different worlds to save the princess. Mario has the ability to run and jump to avoid, collect, or destroy bricks in the worlds for points. The player has a life count that can be taken if the player runs into enemies or fall in a pit. Lose all lives and its game over, the player can obtain one ups for an extra life. There are power ups to collect to help the player in worlds such as mushrooms, fire flowers. These make Mario bigger for an extra hit or can make him shoot fire. 
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+I love Super Mario Bros it has everything that a quality game has. It functions very well on the NES and dose not frustrate me. It is an easy pick up and play game making the usability good with simple controls. The game is just simple fun that I can enjoy and understand as a video game. The only issue I have is some difficulty spikes in the castles but that is about it. Overall, a masterpiece.
 
 ## Additional Information
 
