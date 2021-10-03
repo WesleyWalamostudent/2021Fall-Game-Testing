@@ -1,16 +1,17 @@
-# Game Review for (GAME TITLE)
+# Game Review for DOOM 2016
 
 ## Details
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
-
+* DOOM 2016
+* https://www.nintendo.com/games/detail/doom-switch/
+* https://store.steampowered.com/agecheck/app/379720/
+* https://www.microsoft.com/en-us/p/doom/c3qh42wrgm3r?activetab=pivot:overviewtab
+* https://store.playstation.com/en-us/product/UP1003-CUSA02085_00-DOOMNORTHAMERICA/
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+# 9/10
 
 ## Summary
 
