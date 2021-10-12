@@ -1,16 +1,20 @@
-# Game Review for (GAME TITLE)
+# Rocket League
 
 ## Details
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+* Rocket League
+* https://www.rocketleague.com/
+* https://www.epicgames.com/store/en-US/p/rocket-league
+* https://store.steampowered.com/news/app/252950
+* https://store.playstation.com/en-us/concept/203715/
+* https://www.microsoft.com/en-us/p/rocket-league/c125w9bg2k0v#activetab=pivot:overviewtab
+* https://www.nintendo.com/games/detail/rocket-league-switch/
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+# 9/10
 
 ## Summary
 
