@@ -1,16 +1,20 @@
-# Game Review for (GAME TITLE)
+# UNO!
 
 ## Details
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+* UNO
+* https://www.letsplayuno.com/
+* https://play.google.com/store/apps/details?id=com.matteljv.uno&hl=en_US&gl=US
+* https://www.nintendo.com/games/detail/uno-switch/
+* https://store.steampowered.com/app/470220/UNO/
+* https://store.playstation.com/en-us/product/UP0001-CUSA04071_00-UBSFTUNOULTIMATE/
+* https://www.microsoft.com/en-us/p/uno/bnsdhdk45kbr?activetab=pivot:overviewtab
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+10/10
 
 ## Summary
 
