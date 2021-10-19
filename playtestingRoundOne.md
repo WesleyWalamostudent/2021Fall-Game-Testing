@@ -1,8 +1,13 @@
-# Playtest for [Game Title]
+# Playtest for Q.U.B.E. 2
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Toxic Games Studio
+* 8/10
+* Q.U.B.E. 2
+* https://www.toxicgames.co.uk/qube2
+* https://store.steampowered.com/app/359100/QUBE_2/
+* https://www.microsoft.com/en-us/p/qube-2/c3fxtth4nfqn?activetab=pivot:overviewtab
+* https://www.nintendo.com/games/detail/qube-2-switch/
+* https://store.playstation.com/en-us/product/UP4660-CUSA11664_00-QUBE2PS4SUBMIT17/
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
