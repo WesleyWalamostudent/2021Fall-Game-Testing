@@ -31,52 +31,52 @@ Answer: Visual Studio suport Java, .Net, html, C#, and json.
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Jetbrains
 
 _What company developed this test tool?_ 
 
-Company Name
+Jetbrains
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Answer: Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Answer: Yes 
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Jetbrains uses Java, .Net, C++, and Python. 
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Feature One: Debug
+* Feature Two: Instant navigation
+* Feature Three: Framework
 
 ## Tool Three
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Sauce Labs
 
 _What company developed this test tool?_ 
 
-Company Name
+Sauce Labs
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Answer: Yes
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Answer: Yes
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Sauce Labs uses Java, Python, Ruby, and .Net
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Feature One: Debug
+* Feature Two: Design
+* Feature Three: Navigation
