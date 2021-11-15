@@ -1,11 +1,13 @@
-# Game Review for (GAME TITLE)
+# Pokémon Unite
 
 ## Details
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+* Pokémon Unite
+* https://unite.pokemon.com/en-us/
+* https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite&hl=en_US&gl=US
+* https://www.nintendo.com/games/detail/pokemon-unite-switch/
 
 ### Rating
 
