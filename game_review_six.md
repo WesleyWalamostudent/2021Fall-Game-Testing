@@ -11,8 +11,7 @@
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+# 7/10
 
 ## Summary
 
